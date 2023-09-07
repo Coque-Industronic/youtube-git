@@ -1,0 +1,98 @@
+commit 99cd56621d8e4123735dc6a023d8f995bddf25c5
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Thu Sep 7 10:54:12 2023 -0600
+
+    Agregando 2 parrafos
+
+commit d3405287c0a452ab290a0a8a3fd95a98411ca773
+Merge: f8f4b33 5de084e
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Thu Sep 7 10:50:21 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit f8f4b334c935f8a3edfff517fa93168307b47b8b
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Thu Sep 7 10:24:11 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 5de084e7683e52d70ab42878eaec3e47aa144aae
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Thu Sep 7 10:24:11 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 4b53685b5d206df5a87fc45266cd52b6af5ea15b
+Merge: fc90786 c6ac8cb
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Thu Sep 7 10:15:25 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit c6ac8cbc08b60917287e5b4c45b3265d84783f5c
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Thu Sep 7 09:44:38 2023 -0600
+
+    Agregando index.js al index.html
+
+commit fc90786449094766ff0442b0d3a0a63e5ceb27b4
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Thu Sep 7 09:38:45 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 07c67e9a209d57943a31f4d0709fc7f0bc373b69
+Merge: 9d5936c 3dd0f7a
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Thu Sep 7 09:12:43 2023 -0600
+
+    Merge branch 'js'
+
+commit 3dd0f7a893efab280adf60aea02d7a5182f71d89
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Thu Sep 7 09:04:19 2023 -0600
+
+    Creando index.js
+
+commit 9d5936c9cf149b97996416a689dd9c3698bb3fb4
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Thu Sep 7 08:55:01 2023 -0600
+
+    Creando style.css
+
+commit b555487caca8d0b4e0baf3854ceb10a7af048b09
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Wed Sep 6 15:28:08 2023 -0600
+
+    Creando index.html
+
+commit 0570873d10efcbb315203b678a4b3d85acaa02ab
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Wed Sep 6 14:54:53 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 094715ce8c461c76d32c7a094044ba99fe12a993
+Author: Coque-Industronic <144161112+Coque-Industronic@users.noreply.github.com>
+Date:   Wed Sep 6 10:36:01 2023 -0600
+
+    Creando licencia del repositorio
+
+commit c9c9e4a2f84f9ca13a3f15718ec4274159421ce1
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Wed Sep 6 09:45:30 2023 -0600
+
+    Agregando mas contenido al README
+
+commit 18ee80426f99192d6ee664cf03bba91fb6ee4257
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Wed Sep 6 08:53:49 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit 6bf82b9260f7c8fdb0d16f8721f6ae053dc7ddde
+Author: Jorge Zamora <jzamora@industronic.com.mx>
+Date:   Wed Sep 6 08:39:12 2023 -0600
+
+    Primer commit 😁
